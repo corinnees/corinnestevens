@@ -7,3 +7,5 @@
 **LinkedIn**
 
 [Here](https://www.linkedin.com/in/corinne-stevens-027429250) you will find a link to my LinkedIn profile. 
+
+[Home](https://github.com/corinnees/corinnestevens/blob/main/README.md)
