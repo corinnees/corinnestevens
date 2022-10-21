@@ -3,7 +3,7 @@
 
 I am a senior at the University of Missouri studying Economics, Business, and Textile and Apparel Management. I have worked in retail, most recently at lululemon, developing my leadership, collaboration, communication, and tactical skills pertaining to retail operations. I have also worked in an office setting at both the Department of Economics within the University and for a financial advisor. These experiences have helped cultivate skills such as working with excel, organization, and client communications. I am currently exploring many career paths and am open to opportunities in a variety of fields.
 
-(![image](https://user-images.githubusercontent.com/111782403/197277027-716b285d-25c1-400e-984d-ae708eb50083.png)
+![image](https://user-images.githubusercontent.com/111782403/197277027-716b285d-25c1-400e-984d-ae708eb50083.png)
 
 
 ### What are on the files?
