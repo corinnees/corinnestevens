@@ -1,6 +1,6 @@
 **Involvement**
 
--Undergraduate Women in Economics, University of Missouri
+*-Undergraduate Women in Economics, University of Missouri
 -Varsity Women’s Basketball, Lyon College
 -Honors Fellowship, Lyon College
 -Basketball camp counselor, Lyon College, Francis Howell High School
