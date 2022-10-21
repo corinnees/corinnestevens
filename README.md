@@ -7,6 +7,6 @@ I am a senior at the University of Missouri studying Economics, Business, and Te
 
 
 ### What is on this site?
-On this site you will find pages with information about my [professional experience](https://github.com/corinnees/corinnestevens/blob/3cf7114b194c0c7c2c5ae039ca937687479429da/ProfessionalExperience.md), a [list of my involement](https://github.com/corinnees/corinnestevens/blob/6e41dc9df57d4fdc6d2803ef290e9a51cd56503a/Involvement.md), an example of a [block of code](https://github.com/corinnees/corinnestevens/blob/cb3a6488de46d69a59d3a22b7b8c00df4896c94d/BlockofCode.md) that I have worked on, and [links](https://github.com/corinnees/corinnestevens/blob/5a94f8854e4601d5b93752868b36ccaee2c71d73/Links.md) to my resume and LinkedIn profile. 
+On this site you will find pages with information about my [professional experience](https://github.com/corinnees/corinnestevens/blob/3cf7114b194c0c7c2c5ae039ca937687479429da/ProfessionalExperience.md), a [list of my involement](https://github.com/corinnees/corinnestevens/blob/6e41dc9df57d4fdc6d2803ef290e9a51cd56503a/Involvement.md), an example of a [block of code](https://github.com/corinnees/corinnestevens/blob/bff2dd7ed813c83a0a4159703b98b6a9f0425c14/BlockofCode.md) that I have worked on, and [links](https://github.com/corinnees/corinnestevens/blob/5a94f8854e4601d5b93752868b36ccaee2c71d73/Links.md) to my resume and LinkedIn profile. 
 
 To learn more about me click [here](https://github.com/corinnees/corinnestevens/blob/e12e8b5aef9b81a4d6b8fea96dfe36fff90d0233/AboutMe.md).
