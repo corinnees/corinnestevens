@@ -1,6 +1,6 @@
 **Block of Code Example**
 
-''' <!DOCTYPE html>
+``` <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -41,7 +41,7 @@ display.innerHTML = displayHTML
 </div>
 </body>
 
-</html> ''' 
-
+</html>  
+``` 
 
 [Home](https://github.com/corinnees/corinnestevens/blob/main/README.md)
