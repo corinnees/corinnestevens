@@ -5,3 +5,6 @@
    In addition to all of the information provided about myself on this site, I wanted to introduce myself in a less formal way. I grew up in St. Louis moving to the suburbs when I was young. I played basketball and volleyball growing up and competed in track during my later years. I have always loved school and learning. I have attended camps and leadership retreats in places around the country. I have also attended basketball camps and tournaments around the country. I ended up at Lyon College on a fellowship with the honors college to play basketball. I eventually moved back to Missouri to attend The University of Missouri. 
 
    I have many interests and hobbies including yoga, working out, and cooking. I am facinated with creating a life of gratefullness and betterment. 
+
+
+[Home](https://github.com/corinnees/corinnestevens/blob/main/README.md)
